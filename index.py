@@ -4,7 +4,6 @@ import torch.nn as nn
 from sklearn.utils import resample
 from sklearn.metrics import f1_score
 from torch.utils.data import DataLoader
-from torch.nn.utils.rnn import pad_sequence
 from transformers import ViltProcessor, ViltModel, get_scheduler, AdamW
 
 from models import MultimodalDataset
