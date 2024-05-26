@@ -1,4 +1,4 @@
-# SafeMemeClassifier: A Multi Model Meme Classifier
+# SafeMemeClassifier: A Multi Modal Meme Classifier
 
 ## Getting started
 
