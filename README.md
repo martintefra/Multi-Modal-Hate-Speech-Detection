@@ -34,7 +34,7 @@ We do some preprocessing on the dataset before training the model. We only take 
 
 You can use the SafeMemeClassifier model to predict if a meme is hateful. We provide an indicative example here.
 
-```sh
+```python
 from utils import inference
 
 dataset_path = "data/MMHS150K_GT_inference.csv"
