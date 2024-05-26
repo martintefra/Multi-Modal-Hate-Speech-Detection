@@ -20,7 +20,8 @@ https://drive.google.com/drive/folders/1vgiJwBTGY8zyYOUmdgleSJma-FUq35vF
 
 ## Datasets
 
-The dataset can be downloaded from the following link:
+The dataset can be downloaded from the following link. After unzipping this should be placed in the folder under the name archive.
+Preprocessing needs to be done in order to place the corresponding images in the data folder.
 
 ```sh
 https://drive.google.com/file/d/1S9mMhZFkntNnYdO-1dZXwF_8XIiFcmlF/view
